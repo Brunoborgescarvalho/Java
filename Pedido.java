@@ -1,6 +1,7 @@
 public class Pedido {
     private int codigo;
     private double valor;
+    
     public int getCodigo() {
         return codigo;
     }
@@ -13,5 +14,7 @@ public class Pedido {
     public void setValor(double valor) {
         this.valor = valor;
     }
+
+    
     
 }
