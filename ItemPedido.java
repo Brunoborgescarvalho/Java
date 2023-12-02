@@ -1,7 +1,6 @@
 public class ItemPedido {
     private Pedido pedido;
     private Produto produto;
-    
     public Pedido getPedido() {
         return pedido;
     }
@@ -14,7 +13,5 @@ public class ItemPedido {
     public void setProduto(Produto produto) {
         this.produto = produto;
     }
-
-    
-    
+     
 }
