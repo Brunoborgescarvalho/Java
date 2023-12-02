@@ -1,3 +1,4 @@
+package pasta;
 public class ItemPedido {
     private Pedido pedido;
     private Produto produto;
